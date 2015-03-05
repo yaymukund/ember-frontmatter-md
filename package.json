@@ -1,5 +1,5 @@
 {
-  "name": "ember-frontloaded-md",
+  "name": "ember-frontmatter-md",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
@@ -20,8 +20,8 @@
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
     "ember-cli": "0.2.0-beta.1",
-    "ember-cli-babel": "^4.0.0",
     "ember-cli-app-version": "0.3.1",
+    "ember-cli-babel": "^4.0.0",
     "ember-cli-content-security-policy": "0.3.0",
     "ember-cli-dependency-checker": "0.0.7",
     "ember-cli-htmlbars": "0.7.4",
@@ -32,7 +32,10 @@
     "ember-data": "1.0.0-beta.15",
     "ember-export-application-global": "^1.0.2",
     "express": "^4.8.5",
-    "glob": "^4.0.5"
+    "glob": "^4.4.1",
+    "marked": "^0.3.3",
+    "rsvp": "^3.0.17",
+    "yaml-front-matter": "^3.2.3"
   },
   "keywords": [
     "ember-addon"

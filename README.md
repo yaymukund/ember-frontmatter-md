@@ -1,4 +1,4 @@
-# Ember-frontloaded-md
+# Ember-frontmatter-md
 
 This README outlines the details of collaborating on this Ember addon.
 
